@@ -1,0 +1,2 @@
+# opencv-pycharm-
+face_and_eyes_detection_opencv_by_pycharm人脸识别和人眼识别项目—机器视觉
